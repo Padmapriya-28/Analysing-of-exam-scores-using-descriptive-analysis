@@ -92,5 +92,5 @@ Clustering reveals clear distinctions between low, average, and high performers.
 Logistic regression allows proactive identification of students at academic risk.
 
 📬 Contact
-For any queries or suggestions, feel free to contact [Your Name] – [your-email@example.com]
+For any queries or suggestions, feel free to contact [Padmapriya Saravanan] – [padmapriyasaravanan28@gmail.com]
 Or raise an issue on this repository.
