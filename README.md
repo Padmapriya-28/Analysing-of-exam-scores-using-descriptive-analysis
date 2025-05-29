@@ -70,7 +70,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/student-performance-analysis.git
+git clone https://github.com/Padmapriya28/analysisofexamscoresusingdescriptiveanalysis.git
 Open the R script in RStudio or any R environment.
 
 Make sure to update the file path to your dataset in the code.
